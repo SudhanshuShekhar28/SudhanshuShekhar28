@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Sudhanshu 👋
 
-<!--
-**SudhanshuShekhar28/SudhanshuShekhar28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 AI & ML Engineer | MERN Stack Developer  
+💻 Passionate about building intelligent apps and solving real-world problems.  
 
-Here are some ideas to get you started:
+## 🔧 Technologies I Work With
+- Python, JavaScript, TypeScript
+- React, Node.js, Express
+- TensorFlow, PyTorch, Scikit-learn
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Featured Projects
+- 🖼️ Image Classification
+- ✈️ Flight Booking AI
+- 📚 Study Buddy Web
+
+## 📫 Connect With Me
+- [LinkedIn](https://www.linkedin.com/in/sudhanshu-shekhar-691345167/)
+- [Portfolio](https://sudhanshu-shekhar-portfolio-website-zyx0.onrender.com/)
